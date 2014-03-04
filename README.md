@@ -1,4 +1,6 @@
-markov_chain_visualisation
-==========================
+flappy_clone
+============
 
-Visualises the statistical characteristics of textual data as a weighted graph by building a stochastic markov chain where nodes represent characters.
+Glide through the stary abyss. What is this universe? How did I get here? Why am I a square?
+
+Nevermind. Must. Improve. Score.
